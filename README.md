@@ -49,8 +49,6 @@
     -Install node.js: https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
     -Then in the integrated terminal for the cloned repo terminal:
       -npm install
-      -use schema.sql as source
-      -npm run seed
       -npm start
 
 
@@ -66,7 +64,7 @@
     https://github.com/jleitz27/budget-tracker  
 
   ## Link to deployed page on Heroku
-  https://frozen-oasis-37527.herokuapp.com/ 
+  https://quiet-oasis-44993.herokuapp.com/ 
 
 <p align="center">
   <img src="./lib/images/screenshot.png" width="350"
